@@ -35,7 +35,7 @@ skills = {
 ### 📈 Featured Projects
 
 1. **Electric Vehicle Analysis Dashboard**
-   - Interactive Tableau dashboard analyzing 150,000+ EV records
+   - Interactive Tableau dashboard analyzing 10,000+ EV records
    - Implemented dynamic visualizations for market trends
 
 2. **Zara Product Sales Analysis**
