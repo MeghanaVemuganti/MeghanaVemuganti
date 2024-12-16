@@ -52,7 +52,7 @@ skills = {
 - Data Analytics Intern, Void Main Solutions
 
 ### 📫 Get in Touch
-- Email: mvemugan@stevens.edu
+- Email: meghana.vemugan@gmail.com
 - Location: New Jersey, NJ
 
 ---
