@@ -47,9 +47,9 @@ skills = {
    - Processed 100,000+ comments with Random Forest & SVM
 
 ### 🌟 Professional Experience
-- Graduate Student Assistant - IT Department, Stevens Institute of Technology
-- Associate Software Engineer, Carelon Global Solutions
-- Data Analytics Intern, Void Main Solutions
+- Graduate Student Intern - IT Systems Analytics , Stevens Institute of Technology
+- Associate Analyst, Carelon Global Solutions
+- Data Analyst Intern, Void Main Solutions
 
 ### 📫 Get in Touch
 - Email: meghana.vemugan@gmail.com
